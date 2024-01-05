@@ -60,3 +60,4 @@ $post = Post::onlyTrashed();
 $post->forceDelete();
 
 ```
+- Relations are also available in tinker if the models are correctly configured
