@@ -1,0 +1,13 @@
+# Laravel Adjustments and More Features
+- Making admin more modular
+- Creating an admin controller
+- Installing a chart on admin
+- Replacing chart static data with dynamic data
+- Some adjustments to admin posts page
+- Installing a blog home page
+- Making front-end more modular
+- Replacing static with dynamic data for home page
+- Some adjustments to single post poage
+- Making front-end top navigation better
+- Front-end comment flash message modification
+- Pagination in the front-end
